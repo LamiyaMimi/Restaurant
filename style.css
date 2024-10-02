@@ -592,9 +592,7 @@ nav {
     text-align: center;
 }
 .fifth_page {
-    height: 1150px;
-  
-
+    height: 800px;
 }
 
 .fifth_page h1 {
@@ -692,6 +690,315 @@ li>a {
     width: 200px;
     margin-top: 40px;
 }
+.button {
+    padding: 10px;
+    background: #07ed72;
+    border: 2px solid #ffffff;
+    border-radius: 6px;
+    font-size: 16px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 600px;
+
+}
+.sixth_page{
+    justify-content: center;
+    align-items: center;
+}
+.sixth_page h1 {
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    color:black;
+    margin-top: -20px;
+}
+
+.sixth_page p {
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    margin-top: -10px;
+}
+
+.your-class3{
+    display: flex;
+    justify-content: center;
+}
+
+.seventh_page{
+    flex-direction: column;
+    font-family: roboto;
+    color: rgb(249, 250, 249);
+    height: 500px;
+    background-image: url(./img10.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-style: italic;
+    text-align: center;
+    justify-content: space-between;
+    top: 30px;
+
+}
+
+.your-class2 p {
+    width: 800px;
+    height: 350px;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    margin-top: -20px;
+}
+.eighth_page {
+    height: 400px;
+    background-color:powderblue;
+
+}
+
+.eighth_page h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0 auto;
+    padding-top: 30px;
+    color: #000;
+}
+
+.eighth_page h2 {
+    font-size: 30px;
+    text-align: center;
+    font-family: roboto;
+    font-style: italic;
+    color: #000;
+}
+
+.subscribe {
+    display: flex;
+    margin-left: 150px;
+}
+
+.subscribe p {
+    font-size: 17px;
+
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.row {
+    border-bottom: 2px solid black;
+    width: 250px;
+    height: 40px;
+    border: 3px solid rgb(245, 248, 246);
+    margin-top: 80px;
+    margin-right: 90px;
+}
+
+
+.row h1 {
+    font-size: 13px;
+    margin-right: 130px;
+    margin-top: -30px;
+}
+
+.row .button_icon {
+    margin-top: -90px;
+
+}
+.button_icon {
+    padding: 10px;
+    background: #fafcfb;
+    border: 2px solid #42e87f;
+    border-radius: 6px;
+    font-size: 20px;
+    color: #003f08;
+    letter-spacing: 1px;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 270px;
+    margin-top: -30px;
+    width: 40px;
+    height: 45px;
+}
+
+.ninth_page {
+    display: flex;
+    gap: 90px;
+    height: 500px;
+
+}
+
+.last {
+    background-size: cover;
+    background-color: gray;
+}
+.last1 {
+    margin-left: 40px;
+    margin-top: 150px;
+}
+
+.last1 h1 {
+    font-size: 30px;
+    color: #fff;
+}
+
+.last1 p {
+    font-size: 15px;
+    margin-top: 20px;
+    color: #fff;
+}
+.fa-long-arrow-right {
+    margin-top: 6px;
+
+}
+
+.arrow_last {
+    display: flex;
+}
+
+.arrow_last i {
+    color: #fff;
+}
+
+.arrow_last h3 {
+    color: #fff;
+}
+.nine {
+    margin-top: 150px;
+   
+}
+.nine h1 {
+    font-size: 30px;
+    color: #fff;
+}
+.last2 h2 {
+    font-size: 18px;
+    margin-left: 90px;
+    margin-top: -70px;
+    color: #f4f8f5;
+}
+
+.image7 {
+    width: 80px;
+    height: 70px;
+    margin-top: 10px;
+
+}
+
+.last3 img {
+    width: 80px;
+    height: 70px;
+    margin-top: 30px;
+}
+
+.last3 h2 {
+    font-size: 18px;
+    margin-top: -70px;
+    margin-left: 90px;
+    color: #f9f6f6;
+}
+
+.icon_page {
+    margin-top: 150px;
+}
+
+.icon_page h1 {
+    font-size: 30px;
+    color: #fff;
+}
+
+.social_media {
+    font-size: 35px;
+    margin-top: 20px;
+    color: #fff;
+    border-bottom: 2px solid black;
+    border: 6px solid rgba(0, 0, 0, 0.381);
+    width: 250px;
+    background-color: #00000033;
+
+}
+
+.social_media i {
+    gap: 20px;
+    color: #fff;
+}
+
+.fa-facebook-official {
+    margin-left: 10px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.fa-twitter {
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.fa-instagram {
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.fa-linkedin-square {
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.fa-linkedin {
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.fa-pinterest-p {
+    margin-left: 10px;
+    font-size: 25px;
+}
+.contact_info {
+    font-size: 25px;
+    top: 10px;
+    color: #fff;
+}
+.how {
+    margin-top: 10px;
+    color: #f5f3f3;
+}
+
+.what {
+    margin-top: 10px;
+    color: #fff;
+}
+
+.why {
+    margin-top: 10px;
+    color: #fff;
+}
+.last_page {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: peru;
+    height: 100px;
+   
+}
+
+.fa-copyright {
+
+    font-size: 20px;
+    color:#000;
+    margin-top: 40px;
+}
+
+.last_page h1 {
+    font-size: 20px;
+    color:#000;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 40px;
+}
+
+
+
+
+
 
 
 
