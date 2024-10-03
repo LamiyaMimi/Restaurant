@@ -47,7 +47,7 @@
 }
 
 .cover-photo {
-    background-image: url(./cover.jpg);
+    background-image: url(./images/cover.jpg);
     height: 800PX;
     width: 100%;
     background-size: cover;
@@ -238,7 +238,7 @@ nav {
     font-family: roboto;
     color: rgb(255, 255, 255);
     height: 700px;
-    background-image: url(./food6.jpg);
+    background-image: url(./images/cover2.jpg);
 
     background-size: cover;
     background-attachment: fixed;
@@ -519,7 +519,7 @@ nav {
 }
 .fourth_page {
     height: 700px;
-    background-image: url(./cover2.jpg);
+    background-image: url(./images/cover2.jpg);
     background-size: cover;
 
 }
@@ -729,7 +729,7 @@ li>a {
     font-family: roboto;
     color: rgb(249, 250, 249);
     height: 500px;
-    background-image: url(./img10.jpg);
+    background-image: url(./images/img10.jpg);
     background-size: cover;
     background-attachment: fixed;
     font-style: italic;
