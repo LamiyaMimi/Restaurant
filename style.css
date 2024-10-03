@@ -747,7 +747,14 @@ li>a {
     text-align: center;
     font-size: 30px;
     display: block;
-    margin-top: -20px;
+    margin-top: 50px;
+}
+.image_6{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
 }
 .eighth_page {
     height: 400px;
